@@ -1,0 +1,25 @@
+div{
+    border: 2px solid #3d999b;
+    margin: 10px 25px;
+    padding: 15px;
+    background-color: rgba(28, 28, 175, 0.2);
+    border-radius: 15px;
+    box-shadow: 2px 4px #88b5b7;
+}
+
+/*Estilo de la imágen*/
+img{
+    float: left;
+    width: 135px;
+    border-radius: 50%;
+}
+
+.cvPrincipal{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    background: linear-gradient(to right, #7a8aac, #19ac67);
+}
+
+#nombrePersona{
+    text-shadow: 3px -4px #88b5b7;
+}
